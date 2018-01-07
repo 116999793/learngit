@@ -89,4 +89,5 @@ def feb(max):
         a,b=b,a+b
         n+=1
 print [x for x in feb(100)]
+print [x for x in feb(222)]
 print [x for x in feb(100)]
