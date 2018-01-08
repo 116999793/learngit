@@ -1,0 +1,21 @@
+C:\龙域\LONGYU\COMMON\bin\Release\COMMON.dll
+C:\龙域\LONGYU\COMMON\bin\Release\COMMON.pdb
+C:\龙域\LONGYU\COMMON\obj\Release\ResolveAssemblyReference.cache
+C:\龙域\LONGYU\COMMON\obj\Release\COMMON.BaseForm.resources
+C:\龙域\LONGYU\COMMON\obj\Release\COMMON.csproj.GenerateResource.Cache
+C:\龙域\LONGYU\COMMON\obj\Release\COMMON.dll
+C:\龙域\LONGYU\COMMON\obj\Release\COMMON.pdb
+D:\auto send pro\17pk Auto\COMMON\bin\Release\COMMON.dll
+D:\auto send pro\17pk Auto\COMMON\bin\Release\COMMON.pdb
+D:\auto send pro\17pk Auto\COMMON\obj\Release\ResolveAssemblyReference.cache
+D:\auto send pro\17pk Auto\COMMON\obj\Release\COMMON.BaseForm.resources
+D:\auto send pro\17pk Auto\COMMON\obj\Release\COMMON.csproj.GenerateResource.Cache
+D:\auto send pro\17pk Auto\COMMON\obj\Release\COMMON.dll
+D:\auto send pro\17pk Auto\COMMON\obj\Release\COMMON.pdb
+D:\MyWork\17pk Auto\COMMON\bin\Release\COMMON.dll
+D:\MyWork\17pk Auto\COMMON\bin\Release\COMMON.pdb
+D:\MyWork\17pk Auto\COMMON\obj\Release\ResolveAssemblyReference.cache
+D:\MyWork\17pk Auto\COMMON\obj\Release\COMMON.BaseForm.resources
+D:\MyWork\17pk Auto\COMMON\obj\Release\COMMON.csproj.GenerateResource.Cache
+D:\MyWork\17pk Auto\COMMON\obj\Release\COMMON.dll
+D:\MyWork\17pk Auto\COMMON\obj\Release\COMMON.pdb

@@ -1,0 +1,35 @@
+C:\龙域\LONGYU\COMMON\obj\Debug\ResolveAssemblyReference.cache
+C:\龙域\LONGYU\COMMON\obj\Debug\COMMON.BaseForm.resources
+C:\龙域\LONGYU\COMMON\obj\Debug\COMMON.csproj.GenerateResource.Cache
+C:\龙域\LONGYU\COMMON\bin\Debug\COMMON.dll
+C:\龙域\LONGYU\COMMON\bin\Debug\COMMON.pdb
+C:\龙域\LONGYU\COMMON\obj\Debug\COMMON.dll
+C:\龙域\LONGYU\COMMON\obj\Debug\COMMON.pdb
+C:\17PK\17PK\COMMON\bin\Debug\COMMON.dll
+C:\17PK\17PK\COMMON\bin\Debug\COMMON.pdb
+C:\17PK\17PK\COMMON\obj\Debug\ResolveAssemblyReference.cache
+C:\17PK\17PK\COMMON\obj\Debug\COMMON.BaseForm.resources
+C:\17PK\17PK\COMMON\obj\Debug\COMMON.csproj.GenerateResource.Cache
+C:\17PK\17PK\COMMON\obj\Debug\COMMON.dll
+C:\17PK\17PK\COMMON\obj\Debug\COMMON.pdb
+D:\auto send pro\17PK\17PK\COMMON\bin\Debug\COMMON.dll
+D:\auto send pro\17PK\17PK\COMMON\bin\Debug\COMMON.pdb
+D:\auto send pro\17PK\17PK\COMMON\obj\Debug\ResolveAssemblyReference.cache
+D:\auto send pro\17PK\17PK\COMMON\obj\Debug\COMMON.BaseForm.resources
+D:\auto send pro\17PK\17PK\COMMON\obj\Debug\COMMON.csproj.GenerateResource.Cache
+D:\auto send pro\17PK\17PK\COMMON\obj\Debug\COMMON.dll
+D:\auto send pro\17PK\17PK\COMMON\obj\Debug\COMMON.pdb
+F:\17pk Auto\COMMON\bin\Debug\COMMON.dll
+F:\17pk Auto\COMMON\bin\Debug\COMMON.pdb
+F:\17pk Auto\COMMON\obj\Debug\ResolveAssemblyReference.cache
+F:\17pk Auto\COMMON\obj\Debug\COMMON.BaseForm.resources
+F:\17pk Auto\COMMON\obj\Debug\COMMON.csproj.GenerateResource.Cache
+F:\17pk Auto\COMMON\obj\Debug\COMMON.dll
+F:\17pk Auto\COMMON\obj\Debug\COMMON.pdb
+D:\auto send pro\17pk Auto\COMMON\bin\Debug\COMMON.dll
+D:\auto send pro\17pk Auto\COMMON\bin\Debug\COMMON.pdb
+D:\auto send pro\17pk Auto\COMMON\obj\Debug\ResolveAssemblyReference.cache
+D:\auto send pro\17pk Auto\COMMON\obj\Debug\COMMON.BaseForm.resources
+D:\auto send pro\17pk Auto\COMMON\obj\Debug\COMMON.csproj.GenerateResource.Cache
+D:\auto send pro\17pk Auto\COMMON\obj\Debug\COMMON.dll
+D:\auto send pro\17pk Auto\COMMON\obj\Debug\COMMON.pdb

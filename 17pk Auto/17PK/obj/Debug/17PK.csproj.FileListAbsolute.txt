@@ -1,0 +1,50 @@
+C:\17PK\17PK\17PK\bin\Debug\17PK.exe
+C:\17PK\17PK\17PK\bin\Debug\17PK.pdb
+C:\17PK\17PK\17PK\bin\Debug\COMMON.dll
+C:\17PK\17PK\17PK\bin\Debug\COMMON.pdb
+C:\17PK\17PK\17PK\obj\Debug\ResolveAssemblyReference.cache
+C:\17PK\17PK\17PK\obj\Debug\_17PK.Properties.Resources.resources
+C:\17PK\17PK\17PK\obj\Debug\17PK.csproj.GenerateResource.Cache
+C:\17PK\17PK\17PK\obj\Debug\17PK.exe
+C:\17PK\17PK\17PK\obj\Debug\17PK.pdb
+C:\17PK\17PK\17PK\obj\Debug\_17PK.Frm17PK.resources
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\obj\Debug\17PK.exe
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\obj\Debug\17PK.pdb
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\bin\Debug\17PK.exe
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\bin\Debug\17PK.pdb
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\bin\Debug\COMMON.dll
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\bin\Debug\COMMON.pdb
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\obj\Debug\_17PK.Frm17PK.resources
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\obj\Debug\_17PK.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\17PK\17PK\17PK\obj\Debug\17PK.csproj.GenerateResource.Cache
+D:\auto send pro\17PK\17PK\17PK\obj\Debug\17PK.exe
+D:\auto send pro\17PK\17PK\17PK\obj\Debug\17PK.pdb
+D:\auto send pro\17PK\17PK\17PK\bin\Debug\17PK.exe
+D:\auto send pro\17PK\17PK\17PK\bin\Debug\17PK.pdb
+D:\auto send pro\17PK\17PK\17PK\bin\Debug\COMMON.dll
+D:\auto send pro\17PK\17PK\17PK\bin\Debug\COMMON.pdb
+D:\auto send pro\17PK\17PK\17PK\obj\Debug\ResolveAssemblyReference.cache
+D:\auto send pro\17PK\17PK\17PK\obj\Debug\_17PK.Frm17PK.resources
+D:\auto send pro\17PK\17PK\17PK\obj\Debug\_17PK.Properties.Resources.resources
+D:\auto send pro\17PK\17PK\17PK\obj\Debug\17PK.csproj.GenerateResource.Cache
+F:\17pk Auto\17PK\obj\Debug\17PK.exe
+F:\17pk Auto\17PK\obj\Debug\17PK.pdb
+F:\17pk Auto\17PK\bin\Debug\17PK.exe
+F:\17pk Auto\17PK\bin\Debug\17PK.pdb
+F:\17pk Auto\17PK\bin\Debug\COMMON.dll
+F:\17pk Auto\17PK\bin\Debug\COMMON.pdb
+F:\17pk Auto\17PK\obj\Debug\ResolveAssemblyReference.cache
+F:\17pk Auto\17PK\obj\Debug\_17PK.Frm17PK.resources
+F:\17pk Auto\17PK\obj\Debug\_17PK.Properties.Resources.resources
+F:\17pk Auto\17PK\obj\Debug\17PK.csproj.GenerateResource.Cache
+D:\auto send pro\17pk Auto\17PK\bin\Debug\17PK.exe
+D:\auto send pro\17pk Auto\17PK\bin\Debug\17PK.pdb
+D:\auto send pro\17pk Auto\17PK\bin\Debug\COMMON.dll
+D:\auto send pro\17pk Auto\17PK\bin\Debug\COMMON.pdb
+D:\auto send pro\17pk Auto\17PK\obj\Debug\ResolveAssemblyReference.cache
+D:\auto send pro\17pk Auto\17PK\obj\Debug\_17PK.Frm17PK.resources
+D:\auto send pro\17pk Auto\17PK\obj\Debug\_17PK.Properties.Resources.resources
+D:\auto send pro\17pk Auto\17PK\obj\Debug\17PK.csproj.GenerateResource.Cache
+D:\auto send pro\17pk Auto\17PK\obj\Debug\17PK.exe
+D:\auto send pro\17pk Auto\17PK\obj\Debug\17PK.pdb

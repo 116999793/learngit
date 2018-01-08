@@ -1,0 +1,20 @@
+D:\auto send pro\17pk Auto\17PK\bin\Release\17PK.exe
+D:\auto send pro\17pk Auto\17PK\bin\Release\17PK.pdb
+D:\auto send pro\17pk Auto\17PK\bin\Release\COMMON.dll
+D:\auto send pro\17pk Auto\17PK\bin\Release\COMMON.pdb
+D:\auto send pro\17pk Auto\17PK\obj\Release\ResolveAssemblyReference.cache
+D:\auto send pro\17pk Auto\17PK\obj\Release\_17PK.Frm17PK.resources
+D:\auto send pro\17pk Auto\17PK\obj\Release\_17PK.Properties.Resources.resources
+D:\auto send pro\17pk Auto\17PK\obj\Release\17PK.csproj.GenerateResource.Cache
+D:\auto send pro\17pk Auto\17PK\obj\Release\17PK.exe
+D:\auto send pro\17pk Auto\17PK\obj\Release\17PK.pdb
+D:\MyWork\17pk Auto\17PK\obj\Release\17PK.exe
+D:\MyWork\17pk Auto\17PK\obj\Release\17PK.pdb
+D:\MyWork\17pk Auto\17PK\bin\Release\17PK.exe
+D:\MyWork\17pk Auto\17PK\bin\Release\17PK.pdb
+D:\MyWork\17pk Auto\17PK\bin\Release\COMMON.dll
+D:\MyWork\17pk Auto\17PK\bin\Release\COMMON.pdb
+D:\MyWork\17pk Auto\17PK\obj\Release\ResolveAssemblyReference.cache
+D:\MyWork\17pk Auto\17PK\obj\Release\_17PK.Frm17PK.resources
+D:\MyWork\17pk Auto\17PK\obj\Release\_17PK.Properties.Resources.resources
+D:\MyWork\17pk Auto\17PK\obj\Release\17PK.csproj.GenerateResource.Cache
